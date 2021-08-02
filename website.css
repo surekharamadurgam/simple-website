@@ -1,0 +1,40 @@
+body {
+  margin: 30px 20px;
+  background-color: azure;
+  text-transform: capitalize;
+}
+h1 {
+  text-align: center;
+}
+.id {
+  font-size: 33px;
+}
+header {
+  font-style: oblique;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  font-style: italic;
+  color: aqua;
+  font-size: 19px;
+  background-color: snow;
+  margin-top: 60px;
+  float: right;
+  background-image: url(./heart-shaped-chocolate-candies-on-260nw-1922110379.jpg);
+  background-repeat: no-repeat;
+  background-size: 1284px;
+}
+img {
+  width: 60%;
+}
+a {
+  text-decoration: none;
+}
+figcaption {
+  margin-left: 346px;
+  font-size: 46px;
+  color: #ef8d1a;
+  font-style: oblique;
+}
